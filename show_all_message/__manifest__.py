@@ -7,14 +7,7 @@
     'summary': '',
     'version': '1.0',
     'category': 'Extra Tools',
-    'depends': ['base', 'mail'],
-    'data': [
-        'views/template.xml',
-    ],
     'installable': True,
-    'qweb': [
-        'static/src/xml/base.xml',
-    ],
     'application': True,
 }
 
